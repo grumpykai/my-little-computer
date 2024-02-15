@@ -6,6 +6,6 @@ Software Implementation of an 8-bit Computer following the wonderful book "But H
 
 This development is for my personal learning mainly.
 
-#How
+# How
 
 I try to implement the components in software. The idea is to have a NAND-Gate as a class which will be "wired up" to form more complex components, those comprising the final "computer".
